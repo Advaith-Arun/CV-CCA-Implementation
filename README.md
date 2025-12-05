@@ -1,8 +1,8 @@
 # Computer Vision Coursework Portfolio
 
-Name: Advaith Arun Kashyap
-USN: 1BY23AI011
-Subject: Computer Vision
+- Name: Advaith Arun Kashyap
+- USN: 1BY23AI011
+- Subject: Computer Vision
 
 ## Task 3 - Fourier Analysis and Filtering in Medical Imaging
 
