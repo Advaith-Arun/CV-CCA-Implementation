@@ -2,7 +2,7 @@
 
 - Name: Advaith Arun Kashyap
 - USN: 1BY23AI011
-- Subject: Computer Vision
+- Subject: BAI505B (Computer Vision)
 
 ## Task 3 - Fourier Analysis and Filtering in Medical Imaging
 
