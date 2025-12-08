@@ -1,4 +1,4 @@
-# Computer Vision Coursework Portfolio
+# Computer Vision CCA README details
 
 - **Name:** Advaith Arun Kashyap  
 - **USN:** 1BY23AI011  
